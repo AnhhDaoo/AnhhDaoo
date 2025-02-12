@@ -1,5 +1,8 @@
 ## Hi there 👋 Have A Good Day!
 ---
+<div id="badges" align="left">
+    <img src="https://komarev.com/ghpvc/?username=AnhhDaoo&style=flat" alt="hehe"/>
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=AnhhDaoo&icon=2&color=0)](https://visitcount.itsvg.in)
 
